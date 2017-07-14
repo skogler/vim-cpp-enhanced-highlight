@@ -166,6 +166,7 @@ syntax keyword cppSTLconstant cerr
 syntax keyword cppSTLconstant cin
 syntax keyword cppSTLconstant clog
 syntax keyword cppSTLconstant cout
+syntax keyword cppSTLconstant endl
 syntax keyword cppSTLconstant digits
 syntax keyword cppSTLconstant digits10
 syntax keyword cppSTLconstant eofbit
@@ -596,7 +597,6 @@ syntax keyword cppSTLfunction wscanf
 syntax keyword cppSTLios boolalpha
 syntax keyword cppSTLios dec
 syntax keyword cppSTLios defaultfloat
-syntax keyword cppSTLios endl
 syntax keyword cppSTLios ends
 syntax keyword cppSTLios fixed
 syntax keyword cppSTLios floatfield
